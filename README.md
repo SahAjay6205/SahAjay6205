@@ -1,18 +1,12 @@
-<div align="center" style="background-color:#0d1117;padding:20px;border-radius:12px;">
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Ajay+Sah+%F0%9F%91%8B;Computer+%7C+AI+Engineer;Innovate+with+Intelligence+%7C+Code+with+Purpose" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Ajay+Sah+%F0%9F%91%8B;Computer+%7C+AI+Engineer;Innovate+with+Intelligence+%7C+Code+with+Purpose" alt="Typing SVG" />
 </h1>
 
-<img src="https://raw.githubusercontent.com/SahAjay6205/SahAjay6205/main/assets/banner-ajay.png" alt="Ajay Sah Banner" width="90%" style="border-radius: 12px;" />
-
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="200" />
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/AI.gif" width="200" />
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/rocket.gif" width="150" />
 </p>
-
-</div>
 
 ---
 
